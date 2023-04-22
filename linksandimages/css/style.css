@@ -1,0 +1,52 @@
+.truck-img{
+border-radius:25%;
+height: 500px;
+width:1000px;
+margin:20px 100px;
+}
+h1{
+    font-size: 2.5em;
+    font-family: sans-serif;
+    text-align: center;
+    color:aquamarine;
+}
+body{
+    margin: 50px;
+}
+a{
+    /* font-size: large; */
+    background-color: rgb(33, 94, 225);
+    color:white;
+    box-shadow: lightgray;
+    text-decoration: none;
+    border-radius: 15%;
+    padding:10px;
+  
+}
+#mainDiv{
+ /* display: flex; */
+   width:40%;
+   margin:auto;
+   border: 5px solid rgb(26, 8, 8);
+   border-radius: 10%;
+  
+}
+#divOne, #divTwo{
+    padding: 10px;
+    width:50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 2em;
+}
+#divOne{
+    margin-left: 6.5em;
+}
+#divTwo{
+    margin-left: 7em;
+}
+.about-truck{
+    font-size: 1em;
+    font-family: sans-serif;
+}
+
+
